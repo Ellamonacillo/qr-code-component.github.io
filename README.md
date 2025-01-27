@@ -18,8 +18,8 @@ QR Code Component
 ![](./screenshot.jpg)
 
 ### Links
-- Solution URL: (https://github.com/Ellamonacillo/qr-code-component.github.io)
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://ellamonacillo.github.io/qr-code-component.github.io/))
+- Solution URL: [Solution URL](https://github.com/Ellamonacillo/qr-code-component.github.io)
+- Live Site URL: [Live URL](https://your-live-site-url.com](https://ellamonacillo.github.io/qr-code-component.github.io/)
 
 ## My process
 
