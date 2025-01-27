@@ -15,11 +15,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 QR Code Component
 
 ### Screenshot
-![](./screenshot.jpg)
+![](images/screenshot.png)
 
 ### Links
 - Solution URL: [Solution URL](https://github.com/Ellamonacillo/qr-code-component.github.io)
-- Live Site URL: [Live URL](https://your-live-site-url.com](https://ellamonacillo.github.io/qr-code-component.github.io/)
+- Live Site URL: [Github Pages](https://ellamonacillo.github.io/qr-code-component.github.io/)
 
 ## My process
 
